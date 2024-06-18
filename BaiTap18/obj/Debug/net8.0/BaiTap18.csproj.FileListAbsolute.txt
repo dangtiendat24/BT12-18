@@ -1,0 +1,14 @@
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.AssemblyInfoInputs.cache
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.AssemblyInfo.cs
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.csproj.CoreCompileInputs.cache
+C:\Users\Dang Dat\source\repos\BaiTap18\bin\Debug\net8.0\BaiTap18.exe
+C:\Users\Dang Dat\source\repos\BaiTap18\bin\Debug\net8.0\BaiTap18.deps.json
+C:\Users\Dang Dat\source\repos\BaiTap18\bin\Debug\net8.0\BaiTap18.runtimeconfig.json
+C:\Users\Dang Dat\source\repos\BaiTap18\bin\Debug\net8.0\BaiTap18.dll
+C:\Users\Dang Dat\source\repos\BaiTap18\bin\Debug\net8.0\BaiTap18.pdb
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.dll
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\refint\BaiTap18.dll
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.pdb
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\BaiTap18.genruntimeconfig.cache
+C:\Users\Dang Dat\source\repos\BaiTap18\obj\Debug\net8.0\ref\BaiTap18.dll
